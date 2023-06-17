@@ -1,1 +1,1 @@
-# Educational-system
+# Educational management system project  
